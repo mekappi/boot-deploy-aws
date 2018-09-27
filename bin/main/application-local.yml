@@ -1,6 +1,0 @@
-spring:
-  datasource:
-    username: fundivers
-    password: fundivers00
-  thymeleaf:
-    cache: false
