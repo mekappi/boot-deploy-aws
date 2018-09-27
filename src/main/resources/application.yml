@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: local
+  datasource:
+    url: jdbc:mysql://localhost/deploy
+    driver-class-name: com.mysql.jdbc.Driver
